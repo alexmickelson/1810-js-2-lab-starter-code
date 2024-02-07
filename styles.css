@@ -42,7 +42,7 @@ footer li {
   display: inline-block;
 }
 
-.page-container {
+#page-container {
   display: flex; /* my children will obey flex rules */
   flex-direction: row; /* my children will be laid out horizontally */
   flex: 1;
